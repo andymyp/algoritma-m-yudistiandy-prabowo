@@ -1,4 +1,4 @@
-function diagonalDifference(matrix) {
+const diagonalDifference = (matrix) => {
   let n = matrix.length;
   let diagonal1 = 0;
   let diagonal2 = 0;
